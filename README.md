@@ -1,4 +1,4 @@
-# Trabalho Prático - Semana 04
+# Semanas 4 e 5 - Atividade Prática
 
 Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
 
